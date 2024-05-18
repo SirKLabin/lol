@@ -1,0 +1,4 @@
+<Files "__framer-badge.Z65RNMUP.mjs">
+    Order allow,deny
+    Deny from all
+</Files>
